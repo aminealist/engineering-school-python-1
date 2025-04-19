@@ -1,2 +1,5 @@
 .idea
 /venv
+test_dir
+test_trashbox
+clean_trash.log
